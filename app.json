@@ -1,0 +1,17 @@
+{
+  "name": "uber",
+  "displayName": "uber",
+  "expo": {
+    "name": "uber",
+    "slug": "uber",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
